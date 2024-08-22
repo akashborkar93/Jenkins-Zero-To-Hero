@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: nginx
+        image: akash499348/ultimate-cicd:4
         ports:
         - containerPort: 8080
